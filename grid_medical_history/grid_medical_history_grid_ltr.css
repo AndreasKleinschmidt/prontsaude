@@ -1,0 +1,20 @@
+.css_edit_rec_label, .css_edit_rec_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_edit_rec_grid_line, .css_edit_rec_grid_line:hover {text-align: center;}
+.css_doctor_iddoctor_label, .css_doctor_iddoctor_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_doctor_iddoctor_grid_line, .css_doctor_iddoctor_grid_line:hover {vertical-align: top;text-align: right;}
+.css_complaints_label, .css_complaints_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_complaints_grid_line, .css_complaints_grid_line:hover {vertical-align: top;text-align: left;}
+.css_diagnosis_label, .css_diagnosis_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_diagnosis_grid_line, .css_diagnosis_grid_line:hover {vertical-align: top;text-align: left;}
+.css_prescription_label, .css_prescription_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_prescription_grid_line, .css_prescription_grid_line:hover {vertical-align: top;text-align: left;}
+.css_tonursery_label, .css_tonursery_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_tonursery_grid_line, .css_tonursery_grid_line:hover {vertical-align: top;text-align: left;}
+.css_nursery_datetime_label, .css_nursery_datetime_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_nursery_datetime_grid_line, .css_nursery_datetime_grid_line:hover {vertical-align: top;text-align: center;}
+.css_idhistory_label, .css_idhistory_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_idhistory_grid_line, .css_idhistory_grid_line:hover {vertical-align: top;text-align: right;}
+.css_history_datetime_label, .css_history_datetime_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_history_datetime_grid_line, .css_history_datetime_grid_line:hover {vertical-align: top;text-align: center;}
+.css_patients_idpatient_label, .css_patients_idpatient_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_patients_idpatient_grid_line, .css_patients_idpatient_grid_line:hover {vertical-align: top;text-align: right;}

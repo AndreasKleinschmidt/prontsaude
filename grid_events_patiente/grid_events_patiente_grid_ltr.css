@@ -1,0 +1,21 @@
+.css_idevent_status_label, .css_idevent_status_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_idevent_status_grid_line, .css_idevent_status_grid_line:hover {vertical-align: top;text-align: right;}
+.css_start_date_label, .css_start_date_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_start_date_grid_line, .css_start_date_grid_line:hover {vertical-align: top;text-align: center;}
+.css_start_time_label, .css_start_time_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_start_time_grid_line, .css_start_time_grid_line:hover {vertical-align: top;text-align: center;}
+.css_doctor_iddoctor_label, .css_doctor_iddoctor_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_doctor_iddoctor_grid_line, .css_doctor_iddoctor_grid_line:hover {vertical-align: top;text-align: right;}
+.css_categ_label, .css_categ_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_categ_grid_line, .css_categ_grid_line:hover {vertical-align: top;text-align: right;}
+.css_bt_add_label, .css_bt_add_label:hover {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_bt_add_grid_line, .css_bt_add_grid_line:hover {text-align: center;}
+.css_idevent_label, .css_idevent_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_idevent_grid_line, .css_idevent_grid_line:hover {vertical-align: top;text-align: right;}
+.css_title_label, .css_title_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_title_grid_line, .css_title_grid_line:hover {vertical-align: top;text-align: left;}
+.css_descr_label, .css_descr_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_descr_grid_line, .css_descr_grid_line:hover {vertical-align: top;text-align: left;}
+.css_end_date_label, .css_end_date_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_end_date_grid_line, .css_end_date_grid_line:hover {vertical-align: top;text-align: center;}
+.css_medical_history_grid_line, .css_medical_history_grid_line:hover {vertical-align: top;text-align: right;}
