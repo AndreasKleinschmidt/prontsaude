@@ -1,0 +1,12 @@
+.css_idpatient_label, .css_idpatient_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_idpatient_grid_line, .css_idpatient_grid_line:hover {vertical-align: top;text-align: right;}
+.css_patient_name_label, .css_patient_name_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_patient_name_grid_line, .css_patient_name_grid_line:hover {vertical-align: top;text-align: left;}
+.css_patient_birthdate_label, .css_patient_birthdate_label:hover {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_patient_birthdate_grid_line, .css_patient_birthdate_grid_line:hover {vertical-align: top;text-align: center;}
+.css_patient_gender_label, .css_patient_gender_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_patient_gender_grid_line, .css_patient_gender_grid_line:hover {vertical-align: top;text-align: left;}
+.css_patient_blood_label, .css_patient_blood_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_patient_blood_grid_line, .css_patient_blood_grid_line:hover {vertical-align: top;text-align: left;}
+.css_patient_phone_label, .css_patient_phone_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_patient_phone_grid_line, .css_patient_phone_grid_line:hover {vertical-align: top;text-align: left;}
