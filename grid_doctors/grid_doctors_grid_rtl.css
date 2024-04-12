@@ -1,0 +1,14 @@
+.css_iddoctor_label, .css_iddoctor_label:hover {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_iddoctor_grid_line, .css_iddoctor_grid_line:hover {vertical-align: top;text-align: right;}
+.css_namedoctor_label, .css_namedoctor_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_namedoctor_grid_line, .css_namedoctor_grid_line:hover {vertical-align: top;text-align: right;}
+.css_speciality_idspeciality_label, .css_speciality_idspeciality_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_speciality_idspeciality_grid_line, .css_speciality_idspeciality_grid_line:hover {vertical-align: top;text-align: right;}
+.css_day1_label, .css_day1_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_day1_grid_line, .css_day1_grid_line:hover {vertical-align: top;text-align: right;}
+.css_day2_label, .css_day2_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_day2_grid_line, .css_day2_grid_line:hover {vertical-align: top;text-align: right;}
+.css_day3_label, .css_day3_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_day3_grid_line, .css_day3_grid_line:hover {vertical-align: top;text-align: right;}
+.css_day4_label, .css_day4_label:hover {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_day4_grid_line, .css_day4_grid_line:hover {vertical-align: top;text-align: right;}
